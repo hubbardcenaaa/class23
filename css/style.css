@@ -1,0 +1,17 @@
+#element{
+   width: 200px;
+   height: 200px;
+   background: orange;
+}
+#element.active{
+    width: 100%;
+    background: blue;
+}
+
+#preloader{
+    position: fixed;
+    inset: 0;
+    background: #1191D0;
+    z-index: 999;
+
+}
